@@ -13,7 +13,7 @@ It simplifies the process of securing your website, catering to different needs 
 
 ### Adding a free Let's Encrypt SSL certificate
 1. **Log into Virtualmin**: Access your Virtualmin panel with your administrator credentials.
-2. **Select domain**: From the navigation menu, choose the domain to secure. Before continuing make sure that **SSL website enabled** feature is enabled in **Edit Virtual Server** page.
+2. **Select domain**: From the navigation menu, choose the domain to secure.
 3. **Navigate to SSL options**: Go to **Manage Virtual Server ⇾ Setup SSL Certificate** page for this domain.
 4. **Switch to Let's Encrypt tab**: Click on **Let's Encrypt** tab.
 5. **Configure Let's Encrypt options**:
